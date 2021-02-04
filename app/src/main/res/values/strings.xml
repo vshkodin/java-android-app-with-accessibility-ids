@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="testLocatorMid">Center</string>
+    <string name="testLocatorRight">Right</string>
+    <string name="testLocatorButton">down</string>
+</resources>
