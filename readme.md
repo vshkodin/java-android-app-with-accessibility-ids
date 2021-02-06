@@ -1,8 +1,8 @@
 #### Simple Example android app with accessibility ids
 #### Clone repo:
 ```
-git clone
-cd
+git clone https://github.com/vsshk/java-android-app-with-accessibility-ids.git
+cd java-android-app-with-accessibility
 ```
 In order to update accessibility id of element:
 1. open res/values/strings.xml
